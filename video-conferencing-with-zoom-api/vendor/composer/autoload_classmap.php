@@ -25,6 +25,7 @@ return array(
     'Codemanas\\VczApi\\Helpers\\Date' => $baseDir . '/includes/Helpers/Date.php',
     'Codemanas\\VczApi\\Helpers\\Encryption' => $baseDir . '/includes/Helpers/Encryption.php',
     'Codemanas\\VczApi\\Helpers\\Links' => $baseDir . '/includes/Helpers/Links.php',
+    'Codemanas\\VczApi\\Helpers\\Locales' => $baseDir . '/includes/Helpers/Locales.php',
     'Codemanas\\VczApi\\Helpers\\MeetingType' => $baseDir . '/includes/Helpers/MeetingType.php',
     'Codemanas\\VczApi\\Helpers\\Templates' => $baseDir . '/includes/Helpers/Templates.php',
     'Codemanas\\VczApi\\Requests\\Zoom' => $baseDir . '/includes/Requests/Zoom.php',
