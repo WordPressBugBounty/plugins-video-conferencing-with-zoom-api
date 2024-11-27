@@ -52,6 +52,7 @@ class ComposerStaticInit29e970424d857ac5707b04aab1a5ae60
         'Codemanas\\VczApi\\Helpers\\Locales' => __DIR__ . '/../..' . '/includes/Helpers/Locales.php',
         'Codemanas\\VczApi\\Helpers\\MeetingType' => __DIR__ . '/../..' . '/includes/Helpers/MeetingType.php',
         'Codemanas\\VczApi\\Helpers\\Templates' => __DIR__ . '/../..' . '/includes/Helpers/Templates.php',
+        'Codemanas\\VczApi\\Marketplace' => __DIR__ . '/../..' . '/includes/Marketplace.php',
         'Codemanas\\VczApi\\Requests\\Zoom' => __DIR__ . '/../..' . '/includes/Requests/Zoom.php',
         'Codemanas\\VczApi\\Shortcodes' => __DIR__ . '/../..' . '/includes/Shortcodes.php',
         'Codemanas\\VczApi\\Shortcodes\\Embed' => __DIR__ . '/../..' . '/includes/Shortcodes/Embed.php',

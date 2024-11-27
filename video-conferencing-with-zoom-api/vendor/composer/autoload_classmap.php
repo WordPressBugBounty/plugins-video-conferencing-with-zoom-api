@@ -28,6 +28,7 @@ return array(
     'Codemanas\\VczApi\\Helpers\\Locales' => $baseDir . '/includes/Helpers/Locales.php',
     'Codemanas\\VczApi\\Helpers\\MeetingType' => $baseDir . '/includes/Helpers/MeetingType.php',
     'Codemanas\\VczApi\\Helpers\\Templates' => $baseDir . '/includes/Helpers/Templates.php',
+    'Codemanas\\VczApi\\Marketplace' => $baseDir . '/includes/Marketplace.php',
     'Codemanas\\VczApi\\Requests\\Zoom' => $baseDir . '/includes/Requests/Zoom.php',
     'Codemanas\\VczApi\\Shortcodes' => $baseDir . '/includes/Shortcodes.php',
     'Codemanas\\VczApi\\Shortcodes\\Embed' => $baseDir . '/includes/Shortcodes/Embed.php',
