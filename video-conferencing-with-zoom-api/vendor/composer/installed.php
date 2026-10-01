@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'techies23/video-conferencing-with-zoom-api',
-        'pretty_version' => '4.6.10',
-        'version' => '4.6.10.0',
-        'reference' => '6092c923fda01a2cf628c1b7d34cc8b3ce0253a3',
+        'pretty_version' => '4.6.11',
+        'version' => '4.6.11.0',
+        'reference' => 'fc528d5628ef026d4d964fa25e1671a2f8b9f80f',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'techies23/video-conferencing-with-zoom-api' => array(
-            'pretty_version' => '4.6.10',
-            'version' => '4.6.10.0',
-            'reference' => '6092c923fda01a2cf628c1b7d34cc8b3ce0253a3',
+            'pretty_version' => '4.6.11',
+            'version' => '4.6.11.0',
+            'reference' => 'fc528d5628ef026d4d964fa25e1671a2f8b9f80f',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
